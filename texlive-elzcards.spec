@@ -1,6 +1,6 @@
 Name:		texlive-elzcards
 Version:	51894
-Release:	1
+Release:	2
 Summary:	Typeset business cards, index cards and flash cards easily
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elzcards
