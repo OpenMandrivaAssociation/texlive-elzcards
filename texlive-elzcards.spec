@@ -3,7 +3,7 @@ Version:	51894
 Release:	2
 Summary:	Typeset business cards, index cards and flash cards easily
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elzcards
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/elzcards
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elzcards.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elzcards.doc.r%{version}.tar.xz
